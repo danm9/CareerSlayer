@@ -1,0 +1,10 @@
+import React from 'react';
+import { Route, Switch } from 'react-router-dom';
+import Home from './core/Home';
+//import Menu from './core/Menu';
+//import Signin from './user/Signin';
+//import Signup from './user/Signup';
+import About from './user/About';
+//import Library from './user/Library';
+//import Profile from './user/Profile';
+//import Users from './user/users';
